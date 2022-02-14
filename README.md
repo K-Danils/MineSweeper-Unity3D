@@ -2,6 +2,8 @@
 
 _____________________________
 
+<img src="https://k-danils.itch.io/mine-sweeper"/>
+
 A modern spin on classic windows game - Mine Sweeper! 
 Play as a detective trying to uncover all the bombs a local psycho has position all around the city!
 
